@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.9e3785d2.js",
-    "static/js/453.0a81745a.chunk.js": "/static/js/453.0a81745a.chunk.js",
-    "static/media/blobblue.png": "/static/media/blobblue.20e05a193186c6691d4b.png",
-    "static/media/About-Us.png": "/static/media/About-Us.7750a9534e15cc7fc420.png",
-    "static/media/Blogging.png": "/static/media/Blogging.bb236b177b695e015e6e.png",
-    "static/media/Annotation.png": "/static/media/Annotation.452a9c14342d2c10fa63.png",
-    "static/media/logo.svg": "/static/media/logo.ecb09118c602d997da81e3e8f08336b3.svg",
-    "static/media/instagram-square-brands.svg": "/static/media/instagram-square-brands.da9744730a684b8846287f490f8d226e.svg",
-    "static/media/twitter-square-brands.svg": "/static/media/twitter-square-brands.6a1f3411cac3bc398d92e72ffe0a2e18.svg",
-    "static/media/waves.svg": "/static/media/waves.bb9ff1763eb4972aa26bbacf7d588ac8.svg",
-    "static/media/linkedin-brands.svg": "/static/media/linkedin-brands.d7833fba7bdcf55514c4109c6c1eb7d0.svg",
-    "index.html": "/index.html",
-    "static/media/facebook-square-brands.svg": "/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
-    "static/media/arrow-up.svg": "/static/media/arrow-up.65164624ca1539634ee30e63113402a1.svg",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.9e3785d2.js.map": "/static/js/main.9e3785d2.js.map",
-    "453.0a81745a.chunk.js.map": "/static/js/453.0a81745a.chunk.js.map"
+    "main.css": "/https;//anuragitachi.github.io/Bussines-website/static/css/main.f855e6bc.css",
+    "main.js": "/https;//anuragitachi.github.io/Bussines-website/static/js/main.0a94e1e8.js",
+    "static/js/453.0a81745a.chunk.js": "/https;//anuragitachi.github.io/Bussines-website/static/js/453.0a81745a.chunk.js",
+    "static/media/blobblue.png": "/https;//anuragitachi.github.io/Bussines-website/static/media/blobblue.20e05a193186c6691d4b.png",
+    "static/media/About-Us.png": "/https;//anuragitachi.github.io/Bussines-website/static/media/About-Us.7750a9534e15cc7fc420.png",
+    "static/media/Blogging.png": "/https;//anuragitachi.github.io/Bussines-website/static/media/Blogging.bb236b177b695e015e6e.png",
+    "static/media/Annotation.png": "/https;//anuragitachi.github.io/Bussines-website/static/media/Annotation.452a9c14342d2c10fa63.png",
+    "static/media/logo.svg": "/https;//anuragitachi.github.io/Bussines-website/static/media/logo.ecb09118c602d997da81e3e8f08336b3.svg",
+    "static/media/instagram-square-brands.svg": "/https;//anuragitachi.github.io/Bussines-website/static/media/instagram-square-brands.da9744730a684b8846287f490f8d226e.svg",
+    "index.html": "/https;//anuragitachi.github.io/Bussines-website/index.html",
+    "static/media/twitter-square-brands.svg": "/https;//anuragitachi.github.io/Bussines-website/static/media/twitter-square-brands.6a1f3411cac3bc398d92e72ffe0a2e18.svg",
+    "static/media/waves.svg": "/https;//anuragitachi.github.io/Bussines-website/static/media/waves.bb9ff1763eb4972aa26bbacf7d588ac8.svg",
+    "static/media/linkedin-brands.svg": "/https;//anuragitachi.github.io/Bussines-website/static/media/linkedin-brands.d7833fba7bdcf55514c4109c6c1eb7d0.svg",
+    "static/media/facebook-square-brands.svg": "/https;//anuragitachi.github.io/Bussines-website/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
+    "static/media/arrow-up.svg": "/https;//anuragitachi.github.io/Bussines-website/static/media/arrow-up.65164624ca1539634ee30e63113402a1.svg",
+    "main.f855e6bc.css.map": "/https;//anuragitachi.github.io/Bussines-website/static/css/main.f855e6bc.css.map",
+    "main.0a94e1e8.js.map": "/https;//anuragitachi.github.io/Bussines-website/static/js/main.0a94e1e8.js.map",
+    "453.0a81745a.chunk.js.map": "/https;//anuragitachi.github.io/Bussines-website/static/js/453.0a81745a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9e3785d2.js"
+    "static/js/main.0a94e1e8.js"
   ]
 }
